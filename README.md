@@ -1,2 +1,2 @@
-# app-service-linux-node-graceful-shutdown-example-
+# app-service-linux-node-graceful-shutdown-example
 Demo
